@@ -10,7 +10,7 @@
 
 ##Результаты
 
-Тестируемый модуль выдал ошибку - [баг репорт](https://github.com/Kolobokes/Java_Lecture-2_Task-1/issues/1#issue-701445514).
+Тестируемый модуль выдал ошибку - [баг репорт](https://github.com/Kolobokes/Java_Lecture-2_Task-2/issues/1#issue-701476513).
 
 ##Общие рекомендации
 
